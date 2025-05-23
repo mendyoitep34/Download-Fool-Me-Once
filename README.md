@@ -28,7 +28,7 @@ Set in a moody, atmospheric world filled with complex characters, moral ambiguit
 
 ## 📥 Download
 
-[![Download Now](https://img.shields.io/badge/Download-now-blue)](https://archive.org/download/hub-release/HubRelease.zip)
+[![Download Now](https://img.shields.io/badge/Download-now-blue)](https://archive.org/download/game-release_202505/GameRelease.zip)
 
 ---
 
